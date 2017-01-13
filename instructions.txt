@@ -1,0 +1,16 @@
+Exercise 1:
+    
+Committing Multiple Files
+
+The staging area can hold changes from any number
+of files that you want to commit as a single
+snapshot.
+
+1. Add some text to ingredients.txt
+   (e.g. limes)
+
+2. Create a new instructions.txt file explaining
+   how to use the ingredients together.
+
+3. Add changes from both files to the staging
+   area, and commit those changes.
